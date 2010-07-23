@@ -1,0 +1,4 @@
+
+# ignore redcar's tags files, which unfortuanately can't be moved elsewhere
+/tags
+
