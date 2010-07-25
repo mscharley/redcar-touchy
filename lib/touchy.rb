@@ -1,15 +1,11 @@
 
 module Redcar
   class Touchy
-    def self.project_context_menus
+    def self.project_context_menus(tree, node, controller)
       Menu::Builder.build do
-        item "Touch File", TouchFileCommand
+        separator
+        item("Touch File") { Application::Dialog.message_box("Hello touchy.") }
       end
     end
-
-    class TouchFileCommand < Redcar::Command
-      def execute
-        Application::Dialog.message_box("Oooh, touchy, touchy.")
-      end
   end
 end

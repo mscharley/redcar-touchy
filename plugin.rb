@@ -5,5 +5,6 @@ Plugin.define do
   file    "lib", "touchy"
   object  "Redcar::Touchy"
   dependencies "core", ">0",
-               "project", ">0"
+               "project", ">=1.1"
+               "application", ">0"
 end
