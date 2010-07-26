@@ -1,8 +1,7 @@
-
 Plugin.define do
   name    "touchy"
   version "0.1"
-  file    "lib", "touchy"
+  file    "touchy"
   object  "Redcar::Touchy"
   dependencies "core", ">0",
                "project", ">=1.1",
