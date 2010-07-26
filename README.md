@@ -2,7 +2,7 @@
 Touchy
 ======
 
-by Matthew Scharley
+by Matthew Scharley  
 a plugin for [Redcar](http://redcareditor.com/)
 
 ## Description
