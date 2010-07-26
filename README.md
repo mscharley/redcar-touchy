@@ -17,9 +17,12 @@ it's files.
 
 ## Installation
 
-TBC
+    $ mkdir -p ~/.redcar/plugins
+    $ cd ~/.redcar/plugins
+    $ git clone git://github.com/mscharley/touchy.git
 
 ## Problems
 
 * Irc at #redcar on irc.freenode.net. I'm known by `monoxide` on Freenode.
 * [Issue queue](http://github.com/mscharley/touchy/issues)
+
