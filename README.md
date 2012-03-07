@@ -19,10 +19,9 @@ it's files.
 
     $ mkdir -p ~/.redcar/plugins
     $ cd ~/.redcar/plugins
-    $ git clone git://github.com/mscharley/touchy.git
+    $ git clone git://github.com/mscharley/redcar-touchy.git touchy
 
 ## Problems
 
-* Irc at #redcar on irc.freenode.net. I'm known by `monoxide` on Freenode.
 * [Issue queue](http://github.com/mscharley/touchy/issues)
 
